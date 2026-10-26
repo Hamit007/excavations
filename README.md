@@ -161,7 +161,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/Hamit007/excavations.git
 cd excavations
 ```
 
